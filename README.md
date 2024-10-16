@@ -1,3 +1,11 @@
+technologies used in this project :
+- Node-Red : the web server
+- arduino : collect sensor values and send them to the webserver and actuate the relays based on the server command 
+- nodeMcu : wifi connectivity to the webserver
+- MQTT : the communication protocol
+- MySQL : database used for saving and retrieving data
+
+
 This project aims to create a small power distribution unit and control it via a Web based control center. The PDU has a basic functionality of:
   - Distributing electricity from a source to multiple loads 
   - Automatic source switching from the main source to the backup source and vice versa in case of power outage 
