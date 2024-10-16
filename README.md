@@ -1,6 +1,6 @@
 technologies used in this project :
 - Node-Red : the web server
-- arduino : collect sensor values and send them to the webserver and actuate the relays based on the server command 
+- Arduino UNO : collect sensor values and send them to the webserver and actuate the relays based on the server command 
 - nodeMcu : wifi connectivity to the webserver
 - MQTT : the communication protocol
 - MySQL : database used for saving and retrieving data
