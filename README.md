@@ -1,6 +1,6 @@
 This project aims to create a small power distribution unit and control it via a Web based control center. The PDU has a basic functionality of:
   - Distributing electricity from a source to multiple loads 
-	- Automatic source switching from the main source to the backup source and vice versa in case of power outage 
+  - Automatic source switching from the main source to the backup source and vice versa in case of power outage 
   - Sending sensor data of (current, voltage, power source) to the web server via Wi-Fi
   - Receiving control commands for each load from the server 
   - Auto source disconnecting in case of overvoltage or overcurrent 
@@ -37,6 +37,25 @@ The web server has basic functions of:
 ![image](https://github.com/user-attachments/assets/46441064-b68b-4d7f-a305-7e414e240219)
 
 ![image](https://github.com/user-attachments/assets/9872ce2b-6601-4ee5-b5dd-ae033e3ca10d)
+
+![image](https://github.com/user-attachments/assets/53de7a38-9488-4848-b6cb-d476eab7cc3e)
+
+![image](https://github.com/user-attachments/assets/9b5ef220-d508-4398-a047-673d115b6f5b)
+![image](https://github.com/user-attachments/assets/aeee8dcc-e5f8-43ba-82ba-ed2cb30b52c4)
+![image](https://github.com/user-attachments/assets/7764114c-b151-4f3f-bb21-163d3dfd28a9)
+![image](https://github.com/user-attachments/assets/f873f29b-d765-448b-9617-c1a496f94248)
+
+
+
+
+
+
+https://github.com/user-attachments/assets/51db2189-32e1-4de6-b7f9-0cbece57d60b
+
+
+
+
+
 
 
 
